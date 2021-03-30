@@ -1,4 +1,3 @@
-# stock-x
 ![stockx _logo](https://user-images.githubusercontent.com/69729732/112956327-32e22200-90f5-11eb-8e76-423b78541436.png)
 
 
