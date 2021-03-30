@@ -19,8 +19,8 @@ StockX is basically the stock market for sneakers. People can buy and sell their
 
 
 ## Sources
-- 2019 StockX Data Contest: [https://stockx.com/news/the-2019-data-contest/](https://stockx.com/news/the-2019-data-contest/)
-- Results of Contest (Used winner as inspiration): [https://stockx.com/news/it-it/2019-data-contest-winner/](https://stockx.com/news/it-it/2019-data-contest-winner/)
-- Getting the values in the boxplot: [https://stackoverflow.com/questions/23461713/obtaining-values-used-in-boxplot-using-python-and-matplotlib](https://stackoverflow.com/questions/23461713/obtaining-values-used-in-boxplot-using-python-and-matplotlib)
-- Grouping by week: [https://stackoverflow.com/questions/45281297/group-by-week-in-pandas](https://stackoverflow.com/questions/45281297/group-by-week-in-pandas)
-- Figuring out which method is the fastest: [https://towardsdatascience.com/apply-function-to-pandas-dataframe-rows-76df74165ee4](https://towardsdatascience.com/apply-function-to-pandas-dataframe-rows-76df74165ee4)
+- [2019 StockX Data Contest](https://stockx.com/news/the-2019-data-contest/)
+- [Results of Contest (Used winner as inspiration)](https://stockx.com/news/it-it/2019-data-contest-winner/)
+- [Getting the values in the boxplot](https://stackoverflow.com/questions/23461713/obtaining-values-used-in-boxplot-using-python-and-matplotlib)
+- [Grouping by week](https://stackoverflow.com/questions/45281297/group-by-week-in-pandas)
+- [Figuring out which method is the fastest](https://towardsdatascience.com/apply-function-to-pandas-dataframe-rows-76df74165ee4)
