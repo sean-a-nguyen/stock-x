@@ -6,6 +6,8 @@ Given the data from the 2019 StockX Data Contest, I unfortunately did not hear a
 
 The Python libraries I used in this project are pandas, numpy, matplotlib, seaborn, and math. 
 
+**I also used Tableau to make an interactive dashboard. You can find it [here](https://public.tableau.com/profile/sean.a.nguyen#!/vizhome/Yeezysvs_Off-WhiteStockXSales/Dashboard2).**
+
 
 ## About the data
 StockX is basically the stock market for sneakers. People can buy and sell their personal sneakers and get them authenticated through StockX. StockX provides the middle man service and a bunch of other great insights about sneakers. This dataset specifically focuses on Yeezy and Off-White x Nike sales on StockX from September 2017 to February 2019. The data provided was already cleaned and ready to be analyzed. 
